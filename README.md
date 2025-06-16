@@ -53,7 +53,7 @@ This Power BI dashboard presents a visual exploration of food price trends acros
 
 **Philip Oklu**  
 _Data Analyst | Power BI Developer_  
-[LinkedIn](https://www.linkedin.com/in/philipoklu) 
+[LinkedIn](https://www.linkedin.com/in/philip-oklu) 
 [GitHub](https://github.com/PhilipOklu)
 
 ---
